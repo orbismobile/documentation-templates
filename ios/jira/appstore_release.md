@@ -1,6 +1,5 @@
 h2. *Basic Information*
 Version: *2.1.0*
-Beta: *1*
 Publish Date: *27/01/2017*
 Estimated Release Date: *30/01/2017*
 
